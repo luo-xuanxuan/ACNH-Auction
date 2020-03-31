@@ -1,0 +1,27 @@
+{
+  "name": "acnh-auction",
+  "version": "1.0.0",
+  "description": "Discord Bot for facilitating ACNH trades.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luo-xuanxuan/ACNH-Auction.git"
+  },
+  "keywords": [
+    "ACNH"
+  ],
+  "author": "Luo Xuanxuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luo-xuanxuan/ACNH-Auction/issues"
+  },
+  "homepage": "https://github.com/luo-xuanxuan/ACNH-Auction#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "sequelize": "^5.21.5",
+    "sqlite3": "^4.1.1"
+  }
+}
